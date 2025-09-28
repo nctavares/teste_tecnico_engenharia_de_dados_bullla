@@ -1,0 +1,9 @@
+venv/
+
+*.db
+*.db-journal
+
+data/transacoes.csv
+data/cartoes.xlsx
+data/clientes.csv
+data/contas.csv
